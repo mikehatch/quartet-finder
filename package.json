@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
+    "react-burger-menu": "^2.5.4",
     "react-dom": "^16.5.2",
+    "react-facebook-login": "^4.1.1",
     "react-scripts": "2.0.5"
   },
   "scripts": {
@@ -21,5 +23,25 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikehatch/quartet-finder.git"
+  },
+  "keywords": [
+    "quartet",
+    "finder",
+    "parts",
+    "singer",
+    "a-cappella"
+  ],
+  "author": "Mike Hatch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikehatch/quartet-finder/issues"
+  },
+  "homepage": "https://github.com/mikehatch/quartet-finder#readme"
 }
