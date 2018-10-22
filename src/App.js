@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './music-note.svg';
 import './App.css';
 import {slide as Menu} from 'react-burger-menu';
 
