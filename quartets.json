@@ -1,0 +1,305 @@
+{
+    "result": "success",
+    "quartets": [
+        {
+            "title": "Over The Rainbow",
+            "arranger": "Ed Waesche",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "Over The Rainbow",
+            "arranger": "Ed Waesche",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "---",
+                "id": 0
+            },
+            "baritone": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "L-O-V-E",
+            "arranger": "Larry Triplett",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "When I Fall In Love",
+            "arranger": "Jay Giallombardo",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "I Don't Know Why (I Just Do)",
+            "arranger": "Melvin Knight",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "I Don't Know Why (I Just Do)",
+            "arranger": "Melvin Knight",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "---",
+                "id": 0
+            },
+            "baritone": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "Let Me Call You Sweetheart",
+            "arranger": "SPEBSQSA",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "Let Me Call You Sweetheart",
+            "arranger": "SPEBSQSA",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "---",
+                "id": 0
+            },
+            "baritone": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "My Wild Irish Rose",
+            "arranger": "BHS / Floyd Connett",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "My Wild Irish Rose",
+            "arranger": "BHS / Floyd Connett",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "---",
+                "id": 0
+            },
+            "baritone": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "Be Our Guest",
+            "arranger": "Stephen Delehanty",
+            "tenor": {
+                "name": "Antoine Jones",
+                "id": 723
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "---",
+                "id": 0
+            }
+        },
+        {
+            "title": "I Can't Give You Anything But Love",
+            "arranger": "David Harrington",
+            "tenor": {
+                "name": "---",
+                "id": 0
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "Antoine Jones",
+                "id": 723
+            }
+        },
+        {
+            "title": "I Can't Give You Anything But Love",
+            "arranger": "David Harrington",
+            "tenor": {
+                "name": "---",
+                "id": 0
+            },
+            "lead": {
+                "name": "---",
+                "id": 0
+            },
+            "baritone": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "bass": {
+                "name": "Antoine Jones",
+                "id": 723
+            }
+        },
+        {
+            "title": "Their Hearts Were Full Of Spring",
+            "arranger": "Aaron Dale",
+            "tenor": {
+                "name": "---",
+                "id": 0
+            },
+            "lead": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "baritone": {
+                "name": "---",
+                "id": 0
+            },
+            "bass": {
+                "name": "Antoine Jones",
+                "id": 723
+            }
+        },
+        {
+            "title": "Their Hearts Were Full Of Spring",
+            "arranger": "Aaron Dale",
+            "tenor": {
+                "name": "---",
+                "id": 0
+            },
+            "lead": {
+                "name": "---",
+                "id": 0
+            },
+            "baritone": {
+                "name": "Mike Hatch",
+                "id": 601
+            },
+            "bass": {
+                "name": "Antoine Jones",
+                "id": 723
+            }
+        }
+    ]
+}
